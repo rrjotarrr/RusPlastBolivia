@@ -9772,3 +9772,11 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+.nav-link{
+  color: #f20d0d;
+}
+
+.nav-link:focus, .nav-link:hover{
+  color: #b90d0d;
+}
